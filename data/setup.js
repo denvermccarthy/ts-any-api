@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 const fs = require('fs').promises;
 
 module.exports = (pool) => {
